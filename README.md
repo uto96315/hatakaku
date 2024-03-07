@@ -4,3 +4,4 @@
 
 ## 参考サイトお及び動画
 - [ディレクトリ構成](https://zenn.dev/web_tips/articles/530d02aaf90400)
+- [バリデーション関係](https://zenn.dev/web_tips/articles/6cfc068e4c79b0)
